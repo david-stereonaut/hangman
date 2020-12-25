@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.checked {
+  text-decoration: line-through
+}
+
+.high-score {
+  color: lightgreen;
+}
+
+.medium-score {
+  color:yellow;
+}
+
+.low-score {
+  color: red;
+}
